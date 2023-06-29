@@ -6,8 +6,28 @@
 
 ## About me
 
-- My name is Marcus a 21-year old Computer Science student;
+- My name is Marcus, a 21-year old Computer Science student;
 - My main goal is to become a Systems Administrator;
 - I speak English, Portuguese, Spanish and am currently learning Hebrew;
 - My main interests are Linux and Free/Open-Source software.
 
+## Languages
+- Currently learning:
+  <img align= "center" width= 40 height= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align = "center" width= 40 height = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
+  <img align = "center" width= 40 height = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+- Want to learn:
+  <img align = "center" width= 40 height = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align ="center" width = 40 height = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align ="center" width = 40 height = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align = "center" width = 40 height = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align = "center" width = 40 height = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align = "center" width = 40 height = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align = "center" width = 40 height = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+  <img align = "center" width = 40 height = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+  <img align = "center" width = 40 height = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=marcuslaguardia&show_icons=true&theme=dracula">
+<img align="left" width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuslaguardia&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+
+          
