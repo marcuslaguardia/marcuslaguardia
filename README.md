@@ -7,8 +7,7 @@
 ## About me
 
 - My name is Marcus, a 21-year old Computer Science student;
-- My main goal is to become a Systems Administrator;
-- I speak English, Portuguese, Spanish and am currently learning Hebrew;
+- I speak English, Portuguese and Spanish;
 - My main interests are Linux and Free/Open-Source software.
 
 ## Languages
