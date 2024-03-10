@@ -6,7 +6,7 @@
 
 ## About me
 
-- My name is Marcus, a 21-year old Computer Science student;
+- My name is Marcus, a 22-year old Computer Science student;
 - I speak English, Portuguese and Spanish;
 - My main interests are Linux and Free/Open-Source software.
 
